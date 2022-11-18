@@ -1,0 +1,21 @@
+form {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    gap: 0.25em;
+    margin-bottom: 1em;
+}
+.resultado {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px gray ;
+}
